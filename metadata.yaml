@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9404'
     url: http://www.gutenberg.org/2009/agents/9404
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20582#Garatujas
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-02-15'
 gutenberg_type: Text
